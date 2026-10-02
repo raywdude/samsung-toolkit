@@ -24,7 +24,7 @@ Fully supports foldable devices!
 
 - [Shizuku](https://github.com/rikkaapps/shizuku) must be fully set up and running. It is highly recommended to download the [latest version from GitHub](https://github.com/RikkaApps/Shizuku/releases/) as the Play Store release is outdated.
 
-- Samsung phone running One UI 8 or newer.
+- Samsung phone running One UI 8 or newer. One UI 5, 6, and 7 devices **may** work with limited functionality.
 
 - Qualcomm-powered phone is required for some features (e.g. fully unlocking bands, accessing the hidden EFS menu)
 
@@ -52,4 +52,10 @@ Fully supports foldable devices!
 
 ## Notes
 
-Tested and verified working on Fold5 (F946U1), S24 Ultra (S928U1), S25 FE (S731U1), Fold7 (F966U1)
+Tested and verified working on Fold5 (F946U1), S24 Ultra (S928U1), S25 FE (S731U1), Fold7 (F966U1).
+
+### Community Tested
+
+- Note 20 Ultra (N9860), partially working.
+
+- S25 Ultra (S938N), fully working.
