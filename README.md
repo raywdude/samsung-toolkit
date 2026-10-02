@@ -14,9 +14,13 @@ Including the ability to,
 
 - Access the SIM Manager directly
 
+- Disable/enable CID Manager (CSC Switching on SIM swaps)
+
 - Load Dynamic System Update Mode (DSU, sandboxed OS)
 
 - Access hidden EFS menu
+
+and more!
 
 Fully supports foldable devices!
 
