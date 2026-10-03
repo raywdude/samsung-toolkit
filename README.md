@@ -46,10 +46,6 @@ Fully supports foldable devices!
 
 <img src="qcom_battery.jpg" width="300" />
 
-<img src="exynos_main.jpg" width="300" />
-
-<img src="exynos_battery.jpg" width="300" />
-
 <img src="fold.jpg" width="300" />
 
 <img src="fold_service_menu_band_select.jpg" width="300" />
