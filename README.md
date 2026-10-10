@@ -6,7 +6,7 @@ Including the ability to,
 
 - Launch Band Selection (both Legacy and Advanced versions)
 
-- Access the Service Menu to unlock 5G NR and 4G LTE bands on Qualcomm-powered Samsung devices
+- Access the Service Menu to unlock 5G NR and 4G LTE bands on Qualcomm-powered Samsung devices ([How To Unlock Bands Guide here](https://xdaforums.com/t/how-to-enable-all-bands-through-service-menu-on-us-ca-s23-series-including-sub-6-and-mmwave.4554611/))
 
 - View the device's battery health even outside the EU
 
@@ -28,7 +28,7 @@ Fully supports foldable devices!
 
 - [Shizuku](https://github.com/rikkaapps/shizuku) must be fully set up and running. It is highly recommended to download the [latest version from GitHub](https://github.com/RikkaApps/Shizuku/releases/) as the Play Store release is outdated.
 
-- Samsung phone running One UI 8 or newer. One UI 5, 6, and 7 devices **may** work with limited functionality.
+- Samsung phone running One UI 8 or newer recommended. One UI 5, 6, and 7 devices have also been confirmed to work by community members.
 
 - Qualcomm-powered phone is required for some features (e.g. fully unlocking bands, accessing the hidden EFS menu)
 
@@ -56,6 +56,10 @@ Tested and verified working on Fold5 (F946U1), S24 Ultra (S928U1), S25 FE (S731U
 
 ### Community Tested
 
-- Note 20 Ultra (N9860), partially working.
+- Note 20 Ultra (N9860)
 
-- S25 Ultra (S938N), fully working.
+- S23 Ultra (S918U1, S918W)
+
+- S25 Ultra (S938N, S938W, S938U1)
+
+- S26 Ultra (S948U1)
