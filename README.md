@@ -62,4 +62,4 @@ Tested and verified working on Fold5 (F946U1), S24 Ultra (S928U1), S25 FE (S731U
 
 - S25 Ultra (S938N, S938W, S938U1)
 
-- S26 Ultra (S948U1)
+- S26 Ultra (S948U1, S948B)
