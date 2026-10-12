@@ -63,3 +63,17 @@ Tested and verified working on Fold5 (F946U1), S24 Ultra (S928U1), S25 FE (S731U
 - S25 Ultra (S938N, S938W, S938U1)
 
 - S26 Ultra (S948U1, S948B)
+
+### FAQ
+
+**How do I access band selection menu on AT&T and other restrictive CSCs?**
+
+1. Go to `Service Menu -> UE Setting -> Setting -> Protocol -> SIM -> EF_RAT FREE SUPPORTING`
+
+2. Click on `[1] EF_RAT FREE SUPPORTING ON`
+
+**How do I unlock hidden 5G NR & 4G LTE bands?**
+
+1. You must have a Qualcomm-based device (typically the Ultra series, S23 and up, and the Fold series). These could be, but not limited to, U/U1 (USA models), W (Canadian model), B (international), 0 (CHN/HK/TW model).
+
+2. Follow the [How To Unlock Bands Guide here](https://xdaforums.com/t/how-to-enable-all-bands-through-service-menu-on-us-ca-s23-series-including-sub-6-and-mmwave.4554611/).
